@@ -1,0 +1,60 @@
+HTML Introduction 
+
+❮ PreviousNext ❯ 
+HTML (HyperText Markup Language) is the standard markup language for creating web pages. It structures web content and tells the browser how to display it.
+HTML elements label pieces of content such as headings, paragraphs, and links.
+For example, the <h1> element defines a large heading, and the <p> element defines a paragraph. 
+
+ 
+1- <!DOCTYPE>: Specifies the HTML version and document type. 
+
+2- <html>: The root element of an HTML document. 
+
+3- <head>: Contains meta-information about the HTML document, such as the title. 
+
+4- <title>: Sets the title of the HTML document, displayed in the browser. 
+
+5- <body>: Contains the main content of the HTML document. 
+
+6- <h1> to <h6>: Define headings of decreasing importance. 
+
+7- <p>: Represents a paragraph of text. 
+
+8- <br>: Inserts a line break within text. 
+
+9- <img>: Inserts an image in the document. 
+
+10- <ul>: Defines an unordered list. 
+
+11- <ol>: Defines an ordered list. 
+
+12- <div>: Represents a division or section in an HTML document. 
+
+13- <strong>: Represents strong importance, usually rendered as bold. 
+
+14- <em> or <i>: Makes text italic. 
+
+15- <blockquote>: Represents a block of text quoted from another source. 
+
+16- <q>: Defines a short quotation. 
+
+17- <table>: Defines a table. 
+
+18- <tr>: Defines a table row. 
+
+19- <td>: Defines a table cell with data. 
+
+20- <th>: Defines a table header cell. 
+
+21- <a> (Anchor) Tag: Creates hyperlinks in HTML, allowing users to navigate to another resource. The <href> attribute specifies the URL or location of the linked resource. 
+
+22- <img> (Image) Tag: Embeds images in HTML documents. The <src> attribute specifies the source URL or file path of the image. 
+
+23- <script> Tag: Embeds or references JavaScript code in HTML documents, enabling dynamic and interactive functionality. 
+
+24- background-color: A CSS property used to set the background color of an HTML element, enhancing visual styling.
+
+25- HTML Lists (<ul>, <ol>, <li>): Structured elements for creating lists.
+                                  1. <ul> represents an unordered list (bullets), 
+                                  2. <ol> represents an ordered list (numbers), and 
+                                  3. <li> represents individual list items within these structures. 
